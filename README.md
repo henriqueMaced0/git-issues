@@ -2,7 +2,7 @@
 
 <h2>💻 Sobre o projeto </h2>
 
-<p>Projeto consumindo Api do GITHUB,listando cinco repositorios pro vez com status fechado,aberto e todos.</p>
+<p>Projeto consumindo Api do GITHUB,Pesquisando e adicionando o repositorio ao ser clicado para ver detalhes é listando cinco repositorios pro vez com status fechado,aberto e todos.</p>
 
 <h2>📸 Demostração </h2>
 
